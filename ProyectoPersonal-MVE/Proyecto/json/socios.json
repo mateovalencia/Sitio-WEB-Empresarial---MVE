@@ -1,0 +1,17 @@
+[
+	{
+		"name": "Coca Cola",
+		"imgPath": "../img/imgSocios/cocacolalogo.png",
+		"linkpage": "www.coca-cola.com.co/es/co/home"
+	},
+	{
+		"name": "Alpina",
+		"imgPath": "../img/imgSocios/alpinalogo.png",
+		"linkpage": "https://www.alpina.com.co"
+	},
+	{
+		"name": "La 14",
+		"imgPath": "../img/imgSocios/lacatorcelogo.png",
+		"linkpage": "www.la14.com"
+	}
+]

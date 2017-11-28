@@ -1,0 +1,52 @@
+[
+	{
+		"name": "Microsoft",
+		"imgPath": "../img/imgClientes/microsoftlogo.png",
+		"linkpage": "https://www.microsoft.com/es-co"
+	},
+	{
+		"name": "Google",
+		"imgPath": "../img/imgClientes/googlelogo.png",
+		"linkpage": "https://www.google.com.co"
+	},
+	{
+		"name": "Apple",
+		"imgPath": "../img/imgClientes/applelogo.png",
+		"linkpage": "https://www.apple.com/co"
+	},
+	{
+		"name": "Sony",
+		"imgPath": "../img/imgClientes/sonylogo.png",
+		"linkpage": "https://www.sony.com.co"
+	},
+	{
+		"name": "Samsung",
+		"imgPath": "../img/imgClientes/samsunglogo.png",
+		"linkpage": "https://www.samsung.com/co"
+	},
+	{
+		"name": "Nokia",
+		"imgPath": "../img/imgClientes/nokialogo.png",
+		"linkpage": "https://www.nokia.com/es_int"
+	},
+	{
+		"name": "Asus",
+		"imgPath": "../img/imgClientes/asuslogo.png",
+		"linkpage": "https://www.asus.com/co"
+	},
+	{
+		"name": "Huawei",
+		"imgPath": "../img/imgClientes/huaweilogo.png",
+		"linkpage": "consumer.huawei.com/co"
+	},
+	{
+		"name": "Intel",
+		"imgPath": "../img/imgClientes/intellogo.png",
+		"linkpage": "https://www.intel.la/content/www/xl/es/homepage.html"
+	},
+	{
+		"name": "Dell",
+		"imgPath": "../img/imgClientes/delllogo.png",
+		"linkpage": "www.dell.com"
+	}
+]

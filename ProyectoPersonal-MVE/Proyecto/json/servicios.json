@@ -1,0 +1,14 @@
+[
+  {
+    "name":"Curso de pastillaje",
+    "linkpage":"https://www.youtube.com/watch?v=6jcLYL6bLdM",
+    "imgPath":"../img/diamadre.jpg",
+    "descripcion":"Curso de pastillaje y manualidades mensual por un costo de $80.000 pesos. Ven y disfruta de una semana de aprendizaje y sabor."
+  },
+  {
+    "name":"Curso de salsas",
+    "linkpage":"https://www.youtube.com/watch?v=6jcLYL6bLdM",
+    "imgPath":"../img/halloween.png",
+    "descripcion":"Ven y tomaun curso de salsamentaría con nuestras cocineras expertas. Valor inscripción: $100.000."
+  }
+]

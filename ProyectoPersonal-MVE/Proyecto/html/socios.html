@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Los Tjaditos</title>
+		<link href="../css/jquery.bxslider.css" rel="stylesheet" />
+		<link href="../style.css" rel="stylesheet">
+		<link href="../css/nav.css" rel="stylesheet">
+		<link href="../css/font-awesome.min.css" rel="stylesheet"/>
+		<link rel="shortcut icon" type="image/png" href="../img/logoTejaditos.png"/>
+	</head>
+<body>
+<!--- Inicio Wrapper -->
+	<div id="wrapper">
+<!--- Inicio Cabecera -->
+	<header>
+		<div id="callout">
+			<h2>&#9742; Domicilios: 6611797</h2>
+			<p>Dirección: Av 6Bis 28N-80 Cali-Colombia</p>
+		</div>
+		<div id="logo">
+			<a href="../index.html"><img src="../img/logoTejaditos.png" /></a>
+		</div>
+	</header>
+<!--- Fin Cabecera -->
+	<div class="clearfix"></div>
+<!--- Inicio Banner deslizante -->
+		<div id="banner-wrapper">
+	<!--- Start Navigation -->
+			<script src="../js/jquery-1.11.2.min.js"></script>
+			<script src="../js/main.js"></script> <!--- For Navigation -->
+			<div class="nav-wrap">
+				<nav class="navigation">
+					<div class="nav" nav-menu-style="pasteleria">
+						<ul class="nav-menu">
+							<li class="active"><a href="../index.html">Inicio</a></li>
+							<li><a href="soluciones.html">Soluciones</a></li>
+							<li><a href="productos.html">Productos</a></li>
+							<li><a href="clientes.html">Clientes</a></li>
+							<li><a href="socios.html">Socios de negocio</a></li>
+							<li><a href="nosotros.html">Nosotros</a></li>
+						</ul>
+					</div>
+				</nav>
+			</div>
+	<!--- End Navigation -->
+	<!--- Start Slider -->
+			<script src="../js/jquery.bxslider.min.js"></script><!--For Image Slider-->
+				<div class="slide-wrap">
+					<div class="slider">
+						<ul class="slider1">
+							<li><img src="../img/halloween.png"/></li>
+							<li><img src="../img/acompanantes.jpg"/></li>
+						</ul>
+					</div>
+				</div>	
+			<script type="text/javascript">
+				$('.slider1').bxSlider({
+					mode: 'fade',
+					captions: false,
+					auto:true,
+					pager:false,
+						
+				});
+				$('.slider2').bxSlider({
+					pager:false,
+					captions: true,
+					maxSlides: 3,
+					minSlides: 1,
+					slideWidth: 230,
+					slideMargin: 10
+				});
+				$('.slider3').bxSlider({
+					mode: 'fade',
+					captions: false,
+					auto:true,
+					pager:false,
+					controls:false,
+				});
+			</script>
+	<!--- End Slider -->
+		</div>
+		</div>
+		<h2>CONOCE NUESTROS SOCIOS</h2>
+		<div class="clearfix"></div>
+		<script src="../js/js-socios/scriptSocios.js"></script>
+		<div id="update"></div>
+	<!--- Fin Banner deslizante -->
+	</div>
+<!--- Fin Wrapper -->
+</body>
+</html>
